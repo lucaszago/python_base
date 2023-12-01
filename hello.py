@@ -1,2 +1,5 @@
+#!/usr/bin/env python 
+
+# Comentário
 print("Hello World")
-print(56 + 7)
+iprint(56 + 7)
